@@ -1,0 +1,44 @@
+C:\Documents and Settings\corkign\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Documents and Settings\corkign\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Documents and Settings\corkign\Desktop\Lab1\Lab1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\corkign\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Documents and Settings\corkign\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Documents and Settings\nicholas.corkigian\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Documents and Settings\nicholas.corkigian\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Documents and Settings\nicholas.corkigian\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Documents and Settings\nicholas.corkigian\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Documents and Settings\nicholas.corkigian\Desktop\Lab1\Lab1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicholas.corkigian\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\nicholas.corkigian\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\nicholas.corkigian\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.corkigian\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\nicholas.corkigian\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\000403590\Downloads\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\COMP-10204\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\danie\Documents\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\danie\Documents\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\danie\Documents\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\danie\Documents\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\danie\Documents\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\000869785\Documents\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\000869785\Documents\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\000869785\Documents\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\000869785\Documents\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\000869785\Documents\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\000869785\Documents\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\000869785\Documents\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\000869785\Documents\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\000869785\Documents\Lab1\Lab1\bin\Debug\employees.txt
+C:\Users\danie\Documents\Lab1\Lab1\bin\Debug\employees.txt
